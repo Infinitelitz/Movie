@@ -1,4 +1,4 @@
-package com.devsuperior.movieflix.components;
+package com.devsuperior.movieflix.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
